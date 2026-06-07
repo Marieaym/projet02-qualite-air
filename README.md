@@ -16,7 +16,7 @@ Analyse des données de qualité de l'air de Milan (2004–2005) à partir du da
 ```bash
 pip install -r requirements.txt
 cd dashboard
-streamlit run app_v7.py
+streamlit run app.py
 ```
 
 ## Structure
